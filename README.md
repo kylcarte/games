@@ -14,3 +14,6 @@ Classic snake game, written with gloss.
 Depends on gloss, random
     ./snake
 
+## Cribbage
+Score a cribbage hand, counting phase only at the moment.
+
